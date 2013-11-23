@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APP250345</Machine>
+    <WindowsUser>training</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>42650273-b92d-40be-b06c-2e8246941b3d</PackageIdentityName>
+    <RegisteredManifestChecksum>4EED0299EEF881666CA19F8AACB3DAB6C5E2469258EA20F60873D5CC7FC14C99</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>42650273-b92d-40be-b06c-2e8246941b3d_1.0.0.0_neutral__ndqx6srk6pgr2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>42650273-b92d-40be-b06c-2e8246941b3d_ndqx6srk6pgr2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>42650273-b92d-40be-b06c-2e8246941b3d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=training</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-22T13:14:13.687</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+      <Modified>2013-11-22T13:14:13.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\book-16-512.png">
+      <PackagePath>Assets\icons\book-16-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\bus-512.png">
+      <PackagePath>Assets\icons\bus-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\businessman-512.png">
+      <PackagePath>Assets\icons\businessman-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\film-reel-512.png">
+      <PackagePath>Assets\icons\film-reel-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\newspaper-10-512.png">
+      <PackagePath>Assets\icons\newspaper-10-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\restaurant-512.png">
+      <PackagePath>Assets\icons\restaurant-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\shopping-bag-512.png">
+      <PackagePath>Assets\icons\shopping-bag-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\sofa-512.png">
+      <PackagePath>Assets\icons\sofa-512.png</PackagePath>
+      <Modified>2013-11-22T10:33:51.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\education1.jpg">
+      <PackagePath>Assets\tiles_images\education1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\education2.jpg">
+      <PackagePath>Assets\tiles_images\education2.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\food1.jpg">
+      <PackagePath>Assets\tiles_images\food1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\furnitures1.jpg">
+      <PackagePath>Assets\tiles_images\furnitures1.jpg</PackagePath>
+      <Modified>2013-11-22T12:52:59.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\furnitures2.jpg">
+      <PackagePath>Assets\tiles_images\furnitures2.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\jobs1.jpg">
+      <PackagePath>Assets\tiles_images\jobs1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\movies1.jpg">
+      <PackagePath>Assets\tiles_images\movies1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\movies2.jpg">
+      <PackagePath>Assets\tiles_images\movies2.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\news1.jpg">
+      <PackagePath>Assets\tiles_images\news1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\shopping1.jpg">
+      <PackagePath>Assets\tiles_images\shopping1.jpg</PackagePath>
+      <Modified>2013-11-22T12:50:18.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\travel1.jpg">
+      <PackagePath>Assets\tiles_images\travel1.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\travel2.jpg">
+      <PackagePath>Assets\tiles_images\travel2.jpg</PackagePath>
+      <Modified>2013-11-22T12:34:41.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-11-22T12:47:09.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-11-22T06:05:02.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2013-11-22T13:00:59.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2013-11-22T12:59:13.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-22T13:14:13.650</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

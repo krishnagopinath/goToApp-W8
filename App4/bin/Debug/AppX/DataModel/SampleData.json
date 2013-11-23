@@ -1,0 +1,475 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Shopping",
+    "Subtitle": "Shop for anything for a special ocassion",
+    "ImagePath": "Assets/tiles_images/shopping1.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Travel & Holiday",
+    "Subtitle": "Book tickets for a holiday",
+    "ImagePath": "Assets/tiles_images/travel2.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "Restaurants",
+    "Subtitle": "Dine out with your friends",
+    "ImagePath": "Assets/tiles_images/food1.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-6",
+        "Title": "Item Title: 6",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-3-Item-7",
+        "Title": "Item Title: 7",
+        "Subtitle": "Item Subtitle: 7",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-4",
+    "Title": "Movies & Events",
+    "Subtitle": "Book a movie ticket, go to an event",
+    "ImagePath": "Assets/tiles_images/movies2.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-4-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-4-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-4-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-4-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-4-Item-6",
+        "Title": "Item Title: 6",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-5",
+    "Title": "Newspaper",
+    "Subtitle": "Get news from around the world",
+    "ImagePath": "Assets/tiles_images/news1.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-5-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-5-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-5-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-5-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },     
+     {
+    "UniqueId": "Group-7",
+    "Title": "Furniture",
+    "Subtitle": "Furnitures and decors for your home",
+    "ImagePath": "Assets/tiles_images/furnitures1.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-7-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-6",
+        "Title": "Item Title: 6",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-7",
+        "Title": "Item Title: 7",
+        "Subtitle": "Item Subtitle: 7",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-7-Item-8",
+        "Title": "Item Title: 8",
+        "Subtitle": "Item Subtitle: 8",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+   {
+    "UniqueId": "Group-8",
+    "Title": "Education",
+    "Subtitle": "Get information about various education portals",
+    "ImagePath": "Assets/tiles_images/education1.jpg",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-8-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-6",
+        "Title": "Item Title: 6",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-7",
+        "Title": "Item Title: 7",
+        "Subtitle": "Item Subtitle: 7",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-8-Item-8",
+        "Title": "Item Title: 8",
+        "Subtitle": "Item Subtitle: 8",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  },
+   {
+    "UniqueId": "Group-9",
+    "Title": "Jobs",
+    "Subtitle": "Search latest jobs from various portals",
+    "ImagePath": "Assets/tiles_images/jobs1.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-9-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-2",
+        "Title": "Item Title: 2",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-3",
+        "Title": "Item Title: 3",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-4",
+        "Title": "Item Title: 4",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-5",
+        "Title": "Item Title: 5",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-6",
+        "Title": "Item Title: 6",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-7",
+        "Title": "Item Title: 7",
+        "Subtitle": "Item Subtitle: 7",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      },
+      {
+        "UniqueId": "Group-9-Item-8",
+        "Title": "Item Title: 8",
+        "Subtitle": "Item Subtitle: 8",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Item Description: ",
+        "Content" : ""
+      }
+    ]
+  }
+]
+}

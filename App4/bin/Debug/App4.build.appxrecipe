@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APP250345</Machine>
+    <WindowsUser>training</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>42650273-b92d-40be-b06c-2e8246941b3d</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App4.exe">
+      <PackagePath>App4.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\book-16-512.png">
+      <PackagePath>Assets\icons\book-16-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\bus-512.png">
+      <PackagePath>Assets\icons\bus-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\businessman-512.png">
+      <PackagePath>Assets\icons\businessman-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\film-reel-512.png">
+      <PackagePath>Assets\icons\film-reel-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\newspaper-10-512.png">
+      <PackagePath>Assets\icons\newspaper-10-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\restaurant-512.png">
+      <PackagePath>Assets\icons\restaurant-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\shopping-bag-512.png">
+      <PackagePath>Assets\icons\shopping-bag-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\icons\sofa-512.png">
+      <PackagePath>Assets\icons\sofa-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\education1.jpg">
+      <PackagePath>Assets\tiles_images\education1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\education2.jpg">
+      <PackagePath>Assets\tiles_images\education2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\food1.jpg">
+      <PackagePath>Assets\tiles_images\food1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\furnitures1.jpg">
+      <PackagePath>Assets\tiles_images\furnitures1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\furnitures2.jpg">
+      <PackagePath>Assets\tiles_images\furnitures2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\jobs1.jpg">
+      <PackagePath>Assets\tiles_images\jobs1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\movies1.jpg">
+      <PackagePath>Assets\tiles_images\movies1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\movies2.jpg">
+      <PackagePath>Assets\tiles_images\movies2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\news1.jpg">
+      <PackagePath>Assets\tiles_images\news1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\shopping1.jpg">
+      <PackagePath>Assets\tiles_images\shopping1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\travel1.jpg">
+      <PackagePath>Assets\tiles_images\travel1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\Assets\tiles_images\travel2.jpg">
+      <PackagePath>Assets\tiles_images\travel2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\training\documents\visual studio 2013\Projects\App4\App4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
