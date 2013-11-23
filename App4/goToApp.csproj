@@ -127,6 +127,7 @@
     </AppxManifest>
     <None Include="Common\ReadMe.txt" />
     <None Include="App4_TemporaryKey.pfx" />
+    <Content Include="Assets\DarkGray.png" />
     <Content Include="Assets\icons\book-16-512.png" />
     <Content Include="Assets\icons\bus-512.png" />
     <Content Include="Assets\icons\businessman-512.png" />
@@ -135,6 +136,12 @@
     <Content Include="Assets\icons\restaurant-512.png" />
     <Content Include="Assets\icons\shopping-bag-512.png" />
     <Content Include="Assets\icons\sofa-512.png" />
+    <Content Include="Assets\LightGray.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\MediumGray.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Assets\tiles_images\education1.jpg" />
     <Content Include="Assets\tiles_images\education2.jpg" />
     <Content Include="Assets\tiles_images\food1.jpg" />
